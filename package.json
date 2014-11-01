@@ -1,0 +1,15 @@
+{
+	'name':'latte_logger',
+    'version':'0.0.1',
+	'description': 'latte_logger',
+	'keywords': ['latte',"latte_logger"],
+	'author': 'qiongtubao ',
+		'main': 'index.js',
+	'repository': {
+	'type': 'git',
+	'url': 'https://github.com/qiongtubao/latte_logger.git'
+	},
+	"dependencies": {
+		"latte_lib": "*"
+	}
+}
