@@ -1,6 +1,6 @@
 {
 	"name":"latte_logger",
-    "version":"0.0.2",
+    "version":"0.0.3",
 	"description": "latte_logger",
 	"keywords": ["latte","latte_logger"],
 	"author": "qiongtubao",
@@ -10,6 +10,7 @@
 		"url": "https://github.com/qiongtubao/latte_logger.git"
 	},
 	"dependencies": {
-		"latte_lib": "*"
+		"latte_lib": "*",
+		"engine.io":"*"
 	}
 }
