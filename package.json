@@ -1,6 +1,6 @@
 {
 	"name":"latte_logger",
-    "version":"0.0.5",
+    "version":"0.0.6",
 	"description": "latte_logger",
 	"keywords": ["latte","latte_logger"],
 	"author": "qiongtubao",
@@ -11,6 +11,7 @@
 	},
 	"dependencies": {
 		"latte_lib": "*",
+		"latte_removeidle": "*",
 		"engine.io":"*"
 	}
 }
